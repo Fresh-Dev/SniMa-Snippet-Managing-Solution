@@ -1,0 +1,36 @@
+{
+    "login_title": "Login",
+    "login_submit": "Login",
+    "login_error":"Login failed",
+    "login_pagetitle":"Login",    
+    "login_error":"Login failed!<br/>Please check youre inputs.",
+    "login_success":"Login Succesful.",
+    
+    "register_pagetitle":"Registration",
+    "register_error":"Die Registrierung ist fehlgeschlagen, bitte &uuml;berpr&uuml;fen Sie Ihre eingaben.",
+    "register_success":"Die Registrierung war erfolgreich.",
+    
+    "placeholder_username":"Benutzername",
+    "placeholder_password":"Passwort",
+    
+    "label_username":"Benutzername",
+    "label_email":"E-Mail",
+    "label_password":"Passwort",
+    "label_password_repeat":"Passwort wiederholung",
+        
+    
+    "help_password":"Min. 6. Zeichen.",
+    "help_username":"Min. 4 Zeichen.",
+    
+    "str_select":"W&auml;hlen....",
+    "str_validate":"Pr&uuml;fen",
+    "str_cancel":"Abbrechen",
+    "str_myAccount":"Mein Account",
+    "str_logout":"Abmelden",
+    "str_home":"Startseite",
+    "str_snippets":"Snippets",
+    "str_newSnippet":"Neues Snippet",
+    "str_pleaseWait":"Bitte warten",
+    "str_registration":"Registrierung"
+    
+}
