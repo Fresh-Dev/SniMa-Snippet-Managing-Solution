@@ -24,10 +24,8 @@ Multilanguage Web Programming-Code manging solution with API and planned Desktop
 - PHP-Mcrypt Module
 
 ## Current Progress: ##
-- Login/Registration: Finished
-- Ace-js embedding:	Finished
-- Composing: Finished
-- API: Not even started
-- TOTAL PROGRESS: ~35%
+- Web-System: Finished
+- API: beginning
+- TOTAL PROGRESS: ~55%
 
  
